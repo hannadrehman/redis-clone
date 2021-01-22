@@ -1,2 +1,2 @@
-# redis-clone
-simple redis clone in nodejs 
+# sample-node-project
+sample nodejs with all basic tools, dependencies, and configs defined. 
