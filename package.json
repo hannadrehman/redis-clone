@@ -1,0 +1,16 @@
+{
+    "name": "redis-clone",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^7.18.0",
+        "eslint-config-airbnb": "^18.2.1",
+        "eslint-config-prettier": "^7.2.0",
+        "eslint-plugin-prettier": "^3.3.1",
+        "express": "^4.17.1",
+        "prettier": "^2.2.1",
+        "prettier-eslint": "^12.0.0"
+    }
+}
