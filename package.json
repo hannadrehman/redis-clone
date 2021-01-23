@@ -7,7 +7,7 @@
         "lint": "eslint . --ext .js,.jsx,.ts,.tsx --quiet",
         "lint:fix": "yarn lint --fix",
         "lint:staged": "yarn lint:fix  --ignore-path .gitignore  --fix",
-        "test" : "jest",
+        "test": "jest",
         "test:watch": "yarn test --watch"
     },
     "dependencies": {
